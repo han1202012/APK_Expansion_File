@@ -1,0 +1,1 @@
+将 main.6.com.example.app.obb 文件拷贝到 SD 卡中的 /sdcard/Android/obb/com.exapmple.app/ 目录中
